@@ -50,7 +50,7 @@ This project is for educational and personal use only.
 - Please **do not submit pull requests** or ask to modify the code in this repository.
 - This repository is **not accepting any external contributions**.
 
-
+```
 ⭐️ If you like this project...
 Give it a ⭐ on GitHub to support my work and journey!
 
@@ -58,4 +58,4 @@ Give it a ⭐ on GitHub to support my work and journey!
 Fathima Haya
 🧠 Data Science Student
 🌐 GitHub:https://github.com/hayaf07
-
+```
