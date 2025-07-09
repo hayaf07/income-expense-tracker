@@ -33,7 +33,7 @@ git clone https://github.com/hayaf07/income-expense-tracker.git
 ```
 ### 2.Install dependencies
 ```bash
-2.pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### 3.Run Tracker_main.py
 ```bash
